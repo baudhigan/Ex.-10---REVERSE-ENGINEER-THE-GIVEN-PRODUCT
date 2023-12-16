@@ -33,10 +33,10 @@
 ## Input:
 
 ### Output:
+![image](https://github.com/baudhigan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151921158/f7d30fa5-164e-4f5a-b06e-b5610c894a0a)
 
-
-### Name:
-### Register Number:
+### Name: Baudhigan D
+### Register Number: 23012654
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
